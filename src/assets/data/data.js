@@ -77,13 +77,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Irma Yunisa Isnaini',
+            name: 'Dimas Maulana',
             icon: './src/assets/images/mandiri.png',
             rekening: '1340029699559'
         },
         {
             id: 2,
-            name: 'Muhamad Rifaldi',
+            name: 'Cintami Soraya',
             icon: './src/assets/images/bni.png',
             rekening: '1794083532'
         },
