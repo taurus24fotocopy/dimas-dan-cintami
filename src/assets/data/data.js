@@ -2,7 +2,7 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Muhamad Rifaldi, S.Kom',
+            name: 'Dimas Maulana',
             child: 'Putra',
             father: 'Ms. Nano Prayogo',
             mother: 'N. Denih',
@@ -11,7 +11,7 @@ export const data = {
         },
         P: {
             id: 2,
-            name: 'Irma Yunisa Isnaini',
+            name: 'Cintami Soraya',
             child: 'Putri',
             father: 'Iman Setiarasa, S.Tr.P',
             mother: 'Siti Yuningsih',
@@ -25,9 +25,9 @@ export const data = {
     time: {
         marriage: {
             year: '2026',
-            month: 'Februari',
-            date: '02',
-            day: 'Senin',
+            month: 'Maret',
+            date: '26',
+            day: 'Kamis',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
@@ -35,20 +35,20 @@ export const data = {
         },
         reception: {
             year: '2026',
-            month: 'Februari',
-            date: '02',
-            day: 'Senin',
+            month: 'Maret',
+            date: '26',
+            day: 'Kamis',
             hours: {
-                start: '10.00',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Dusun Jatirasa RT.003 RW.002 Desa Gunungmanik Kec. Ciniru Kab. Kuningan - Jawa Barat'
+        address: 'Blok Karangasem RT.01 / RW.01 Dusun Manis Desa Kutakembaran Kec. Garawangi Kab. Kuningan - Jawa Barat'
     },
 
     link: {
         calendar: 'https://calendar.app.google/tmeEbH98eAiaiTVZ7',
-        map: 'https://maps.app.goo.gl/obKR4jmDTXcHkKdA6',
+        map: 'https://maps.app.goo.gl/sbBiKpuCVZyzty4t9',
     },
 
     galeri: [
